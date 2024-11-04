@@ -42,4 +42,4 @@ async function makeCommits(n) {
   }
 }
 
-makeCommits(100);
+makeCommits(500);
