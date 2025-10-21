@@ -1,0 +1,31 @@
+[33mcommit 116621bbfa093ea120261b1ec04de1669ce36fad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author:     RanaAns07 <ranaans.pk@gmail.com>
+AuthorDate: Wed May 1 12:00:00 2024 +0500
+Commit:     RanaAns07 <ranaans.pk@gmail.com>
+CommitDate: Wed May 1 12:00:00 2024 +0500
+
+    Backdated commit
+
+[33mcommit b5d615d1132c5d4045c912a7a55b40d72a2cf208[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author:     RanaAns07 <ranaans.pk@gmail.com>
+AuthorDate: Mon Sep 22 21:30:24 2025 +0500
+Commit:     RanaAns07 <ranaans.pk@gmail.com>
+CommitDate: Mon Sep 22 21:30:24 2025 +0500
+
+    added vector searching sinf a simple model
+
+[33mcommit 9471d2563cbded2937f0135775a133e7f8a6d6f9[m
+Author:     RanaAns07 <ranaans.pk@gmail.com>
+AuthorDate: Mon Sep 22 18:29:31 2025 +0500
+Commit:     RanaAns07 <ranaans.pk@gmail.com>
+CommitDate: Mon Sep 22 18:29:31 2025 +0500
+
+    added requirement.txt and updated the gitignore file
+
+[33mcommit dc32cda4e6f5fff3298b8c66bedea3fe7b298c4d[m
+Author:     Ans Mustafa <99713097+RanaAns07@users.noreply.github.com>
+AuthorDate: Mon Sep 22 18:25:47 2025 +0500
+Commit:     GitHub <noreply@github.com>
+CommitDate: Mon Sep 22 18:25:47 2025 +0500
+
+    Initial commit
